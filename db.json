@@ -1,0 +1,91 @@
+
+  {
+        "data": {
+        "_id": "67640e5d77362d1b45210f16",
+        "contract_unique_id": "I82345",
+        "trade_type": "Selling",
+        "services": "Web Development",
+        "project_name": "Quickshoot",
+        "project_amount": 1000,
+        "project_description": "Create ecommerce website for my clothing shop",
+        "project_deadline": "2024-09-20T05:29:00.000Z",
+        "buyer": "Mitesh Maurya",
+        "seller": "Sumit Patel",
+        "contract_acceptance_status": [
+        {
+        "contract_enum_name": "PENDING",
+        "status": false
+        },
+        {
+        "contract_enum_name": "ACCEPTED",
+        "status": true
+        },
+        {
+        "contract_enum_name": "DECLINED",
+        "status": false
+        }
+        ],
+        "project_completed_status": true,
+        "project_milestone_timeline": {
+        "invitation_accept_by_user": true,
+        "payment_made_to_trustopay": true,
+        "seller_started_working": true,
+        "seller_delivered_project": true,
+        "buyer_confirms_delivery": true,
+        "payment_released": true
+        },
+        "contract_created": "2024-09-18T14:11:33.797Z",
+        "new_project_notify": true,
+        "map_data": [
+        {
+        "What is the purpose of the website?": "Business"
+        },
+        {
+        "How many pages?": "7"
+        },
+        {
+        "Enter your theme of website?": "Magenta"
+        },
+        {
+        "Are there any specific third-party services or APIs that need to be integrated with the site?": "No"
+        }
+        ],
+        "payments_to_trustopay": [
+        {
+        "payment_id": "d304b97d-b78f-43b9-b542-5e93fc0b953f",
+        "payment_done_status": true
+        }
+        ],
+        "payout_request": true,
+        "milestones": [
+        {
+        "due_date": "2025-01-01T14:11:33.797Z",
+        "title": "Figma Design for Website",
+        "amount": 10000,
+        "description": "Figma is used to create a detailed visual mockup of the website, defining how users will interact with the platform while maintaining brand consistency and responsive design principles."
+        },
+        {
+        "due_date": "2025-01-02T14:11:33.797Z",
+        "title": "Develop Frontend",
+        "amount": 20000,
+        "description": "Develop the user interface and responsive design based on the Figma design, ensuring compatibility across various devices."
+        },
+        {
+        "due_date": "2025-01-03T14:11:33.797Z",
+        "title": "Implement Backend",
+        "amount": 25000,
+        "description": "Integrate the backend with the frontend, including APIs and databases for smooth data handling and user interaction."
+        },
+        {
+        "due_date": "2025-01-04T14:11:33.797Z",
+        "title": "Testing and Bug Fixes",
+        "amount": 15000,
+        "description": "Test the entire platform, fix bugs, and optimize performance for a smooth user experience."
+        }
+        ]
+        }
+
+
+
+
+}
